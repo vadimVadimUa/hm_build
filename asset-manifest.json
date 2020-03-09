@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hm_build/static/css/main.8ca9c717.chunk.css",
+    "main.js": "/hm_build/static/js/main.f636c4f0.chunk.js",
+    "main.js.map": "/hm_build/static/js/main.f636c4f0.chunk.js.map",
+    "runtime-main.js": "/hm_build/static/js/runtime-main.114c8817.js",
+    "runtime-main.js.map": "/hm_build/static/js/runtime-main.114c8817.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/hm_build/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.f145856b.chunk.js": "/hm_build/static/js/2.f145856b.chunk.js",
+    "static/js/2.f145856b.chunk.js.map": "/hm_build/static/js/2.f145856b.chunk.js.map",
+    "index.html": "/hm_build/index.html",
+    "precache-manifest.0b049ebfc05fad575f4fda095ad55451.js": "/hm_build/precache-manifest.0b049ebfc05fad575f4fda095ad55451.js",
+    "service-worker.js": "/hm_build/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/hm_build/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.8ca9c717.chunk.css.map": "/hm_build/static/css/main.8ca9c717.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.114c8817.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.f145856b.chunk.js",
+    "static/css/main.8ca9c717.chunk.css",
+    "static/js/main.f636c4f0.chunk.js"
+  ]
+}
